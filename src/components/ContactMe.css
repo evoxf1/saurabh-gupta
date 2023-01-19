@@ -1,0 +1,71 @@
+.card-body {
+    width: 300px;
+  }
+  
+  @media (min-width: 992px) {
+    .card-body {
+      width: 100%;
+    }
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .flex-col {
+    flex-direction: column;
+  }
+  
+  .justify-center {
+    justify-content: center;
+  }
+  
+  .items-center {
+    align-items: center;
+  }
+  
+  .form-control {
+    margin-bottom: 20px;
+  }
+  
+  .label {
+    font-size: 20px;
+  }
+  
+  .label-text {
+    margin-bottom: 10px;
+  }
+  
+  .input {
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+  }
+  
+  .input-bordered {
+    border: 1px solid #ccc;
+  }
+  
+  .mt-6 {
+    margin-top: 6px;
+  }
+  
+  .btnC {
+    padding: 10px 20px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .label-text-alt {
+    color: gray;
+  }
+  
+  .link {
+    text-decoration: none;
+  }
+  
+  .link-hover:hover {
+    text-decoration: underline;
+  }
+  
