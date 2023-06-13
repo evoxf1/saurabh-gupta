@@ -12,7 +12,7 @@ const ContactMe = () => {
               Thank you for reaching out! If you would like to contact me via
               email, you can send an email to
               <p className="font-extrabold">saurabh1gupta1994@gmail.com</p> . If
-              you would like to contact me through social media, you can find me
+              git remote add origin https://github.com/evoxf1/TheSaurabhGupta.gityou would like to contact me through social media, you can find me
               on Instagram as<p className="font-extrabold">"thesaurabh.gupta"</p> 
               and on
               Facebook as "<p className="font-extrabold">"Saurabh Gupta"</p>.
