@@ -27,37 +27,12 @@ const ContactMe = () => {
               contact.
             </p>
           </div>
-          <div className="w-[300px] lg:w-full flex flex-col justify-center items-center">
-            <div className="card-body">
-              <div className="form-control">
-                <label className="label">
-                  <span className="label-text">Email</span>
-                </label>
-                <input
-                  type="text"
-                  placeholder="email"
-                  className="input input-bordered"
-                />
-              </div>
-              <div className="form-control">
-                <label className="label">
-                  <span className="label-text">Password</span>
-                </label>
-                <input
-                  type="text"
-                  placeholder="password"
-                  className="input input-bordered"
-                />
-                <label className="label">
-                  <a href="/" className="label-text-alt link link-hover">
-                    Forgot password?
-                  </a>
-                </label>
-              </div>
-              <div className="form-control mt-6">
-                <button className="btn btn-accent">Login</button>
-              </div>
-            </div>
+          <div className="w-[250px] lg:w-full ">
+            <img
+              src="/assets/images/first.jpg"
+              className="rounded-lg shadow-2xl"
+              alt="first"
+            />
           </div>
         </div>
       </div>
